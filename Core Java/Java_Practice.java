@@ -1,3 +1,22 @@
+Java Variables 
+
+import java.io.*;
+ 
+class GFG {
+int a=10; // class or instance variable
+static int b=10; // static variable 
+
+public void hello(){
+  int a=10; // local variable
+}
+
+    public static void main(String[] args)
+    {
+        
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
 Widening Casting
 
 public class Main {
