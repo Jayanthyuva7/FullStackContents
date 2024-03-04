@@ -1,0 +1,10 @@
+Add the following dependency as listed below as follows:
+
+1.Create Spring starter project
+
+and add the below dependencies,
+
+Spring Web
+MySQL Database
+Lombok
+Spring Data JPA
